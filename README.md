@@ -1,5 +1,3 @@
-# COVID-19-Data-Analysis-Project.
-An in-depth analysis of the Our World in Data COVID-19 dataset using Python, Pandas, and Plotly.
 # COVID-19 Global Data Analysis 🦠
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
@@ -37,3 +35,43 @@ An interactive map showing the total confirmed cases per country. You can hover 
 This chart compares the 7-day average of new deaths to the percentage of the population fully vaccinated, showing a strong negative correlation over time.
 
 <img width="1348" height="709" alt="grp2" src="https://github.com/user-attachments/assets/1b3ba9f0-42b1-4585-80e1-eee2664b928f" />
+
+---
+
+## 🛠️ Technology Stack
+
+* **Language:** `Python`
+* **Libraries:** `Pandas`, `Matplotlib`, `Plotly`, `Country-Converter`
+* **Environment:** `Jupyter Notebook`
+
+---
+
+## 📂 Data Source
+
+The dataset used for this analysis is the COVID-19 dataset provided by **Our World in Data**.
+* It can be accessed directly from their [GitHub repository](https://github.com/owid/covid-19-data/tree/master/public/data).
+
+---
+
+## 🚀 Setup and Usage
+
+To run this project on your local machine, follow these steps:
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repository-Name].git
+    ```
+2.  **Install the required libraries:**
+    ```sh
+    pip install pandas plotly country_converter matplotlib
+    ```
+3.  **Run the Jupyter Notebook:**
+    Open the `.ipynb` file in Jupyter Notebook or JupyterLab to view the code and analysis.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+
