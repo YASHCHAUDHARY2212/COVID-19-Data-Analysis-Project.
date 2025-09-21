@@ -36,4 +36,4 @@ An interactive map showing the total confirmed cases per country. You can hover 
 ### New Deaths vs. Vaccination Rate in Germany
 This chart compares the 7-day average of new deaths to the percentage of the population fully vaccinated, showing a strong negative correlation over time.
 
-<img width="1348" height="709" alt="grp2" src="https://github.com/user-attachments/assets/1b3ba9f0-42b1-4585-80e1-eee2664b928f" /><img width="823" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/647ccfe5-88d9-473b-a437-e11b94004352" />
+<img width="1348" height="709" alt="grp2" src="https://github.com/user-attachments/assets/1b3ba9f0-42b1-4585-80e1-eee2664b928f" />
